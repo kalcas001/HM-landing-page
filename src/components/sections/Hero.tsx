@@ -16,7 +16,7 @@ export default function Hero() {
           <h1 className="text-2xl sm:text-3xl md:text-6xl font-extrabold mb-6 leading-tight">
             Building modern web products
             <br />
-            at <span className="text-primary">Hospital</span>
+            at <span className="text-primary">Hospital Managemnt System</span>
           </h1>
         </FadeIn>
 
