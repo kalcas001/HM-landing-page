@@ -14,7 +14,7 @@ export default function About() {
           <p className="section-subtitle mb-4">About the Founder</p>
 
           <h2 className="section-title mb-6">
-            Building scalable products
+            HOSPITAL MANAGEMENT
             <span className="text-emerald-600"> with real business value</span>
           </h2>
 
@@ -57,7 +57,7 @@ export default function About() {
               className="w-64 h-64 rounded-full overflow-hidden border border-neutral-200 dark:border-neutral-800 shadow-xl mx-auto cursor-pointer hover:scale-105 transition"
             >
               <img
-                src="/mee.jpeg"
+                src="/image1.webp"
                 alt="Founder of CodeBridge Technology"
                 className="w-full h-full object-cover"
               />
